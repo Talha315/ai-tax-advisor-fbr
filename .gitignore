@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Data files
+data/raw_pdfs/
+data/extracted_text/
+data/processed/
+
+# Vector database
+vectorstore/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
