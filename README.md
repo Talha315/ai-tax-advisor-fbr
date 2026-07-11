@@ -1,4 +1,4 @@
-# AI Tax Advisor Assistant for Pakistani Business Owners
+# AI Tax Advisor Assistant for Business Owners
 
 A Retrieval-Augmented Generation (RAG) based AI assistant that answers Pakistani tax questions using official Federal Board of Revenue (FBR) documents.
 
