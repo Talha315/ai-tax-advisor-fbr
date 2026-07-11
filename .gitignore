@@ -25,3 +25,9 @@ vectorstore/
 # OS files
 .DS_Store
 Thumbs.db
+
+.env
+.venv/
+data/
+vectorstore/
+__pycache__/

@@ -2,3 +2,10 @@ requests
 beautifulsoup4
 python-dotenv
 pypdf
+chromadb
+sentence-transformers
+torch
+transformers
+google-genai
+groq
+streamlit
