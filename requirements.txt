@@ -9,3 +9,4 @@ transformers
 google-genai
 groq
 streamlit
+torchvision
